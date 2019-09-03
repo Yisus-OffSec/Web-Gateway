@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<engine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="engines.xsd">
+	<name>License</name>
+	<id>com.scur.engine.license</id>
+	<version>1.0.0.0</version>
+	<enableProcedure>
+		<supported>false</supported>
+		<SaaS>stripped</SaaS>
+	</enableProcedure>
+	<clusterConfTemplate>
+		<position>14000</position>
+		<id>com.scur.template.engine.license</id>
+		<confLayout>
+			<group>
+ 				<title>License Administration</title>
+				<id>com.scur.template.engine.license.group</id>
+				<description></description>
+				<elements>
+					<license>
+						<id>com.scur.template.engine.license.group.id1</id>
+					</license>
+				</elements>
+			</group>
+		</confLayout>
+		<defaultValues>
+			<id>com.scur.defaultvalues.engine.license</id>
+		</defaultValues>
+	</clusterConfTemplate>
+</engine>

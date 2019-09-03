@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<license>
+  <version>1.0</version>
+  <product id="mwg">
+    <min-version>7.0.0.0</min-version>
+    <description>McAfee Web Gateway License</description>
+    <header>
+      <generator version="1" id="swms">SWMS License Database</generator>
+      <creation-date>2018-12-19</creation-date>
+      <expire-date>2019-12-31</expire-date>
+      <license-id>55385494</license-id>
+      <customer id="48111">Autoridad de Supervision del Sistema Financiero</customer>
+      <seats>500</seats>
+    </header>
+    <details>
+      <features>
+        <cache />
+        <protocols>
+          <item id="1000">HTTP Proxy</item>
+          <item id="1001">HTTPS Proxy</item>
+          <item id="1002">FTP Proxy</item>
+          <item id="1003">MSN Instant Messaging Proxy</item>
+          <item id="1004">ICQ Instant Messaging Proxy</item>
+          <item id="1005">Yahoo Proxy</item>
+          <item id="1006">ICAP Server</item>
+          <item id="1007">XMPP Proxy</item>
+          <item id="1008">IFP Proxy</item>
+        </protocols>
+        <openers>
+          <item id="3000">7-zip archives</item>
+          <item id="3001">RAR</item>
+        </openers>
+        <filters>
+          <item id="2000">Authentication Module</item>
+          <item id="2001">HTML Filter</item>
+          <item id="2002">URL Filter</item>
+          <item id="2003">Quotas</item>
+          <item id="2004">McAfee Antivirus</item>
+          <item id="2005">McAfee Web Gateway Antimalware</item>
+          <item id="2006">MT Filter</item>
+          <item id="2007">Body Filter</item>
+          <item id="2008">Dim Filter</item>
+          <item id="2009">Certification Filter</item>
+          <item id="2010">Progress page Filter</item>
+          <item id="2011">Data Trickling Filter</item>
+          <item id="2012">Cert Chain Filter</item>
+          <item id="2013">HTML Cutter Filter</item>
+        </filters>
+      </features>
+    </details>
+    <signature sha1="a3bf7449821a2074cf79adcbcb164a081fb51566">OM84DObimkFP70BAIbMlkjHGrgeGhsu1MrO29CwUp6ussDJuU4lmu3QrN2onCByNylLgu1MqoLYucOUVAuXcVzCtfB4XBxYM1LnFWXRzfhbH/YYqz6Ej/717WDfBnWJoc+QjCUVvfg30IcjnMERKPMuGa5NlKUNSGxF+qMOY7OESZWoQUQ+sVb1VnXukIip4woGNZur7xbJcABdJ8gTMeLeg9uxmM8H3TQEuElYNoFtsq8GcZqu1RHHArss42uHCJvtwGstmuoPlLhLEpxJqHqK0hTLSo46dZyr6wufUl/7C2RGvCGNORd9X2r6IHzyPTqbLdJTponvt5HS0Flk58g==</signature>
+  </product>
+  <product id="mwg">
+    <min-version>7.4.1.0</min-version>
+    <description>McAfee Web Gateway License</description>
+    <header>
+      <generator version="1" id="swms">SWMS License Database</generator>
+      <creation-date>2018-12-19</creation-date>
+      <expire-date>2019-12-31</expire-date>
+      <license-id>55385494</license-id>
+      <customer id="48111">Autoridad de Supervision del Sistema Financiero</customer>
+      <seats>500</seats>
+    </header>
+    <details>
+      <features>
+        <item id="2005" enabled="true">Gateway Antimalware</item>
+        <item enabled="false" id="4031">Identity</item>
+      </features>
+    </details>
+    <signature sha1="ec0e16367cd92c19d0de26221ec7974de3d52fe3">Dxv6llSbOTj8UMWVlsI45fDAuX4kvgg+1fuKC5b6poHIP9R1GNrRXC000iq9q0DxOqBOAvAgyDdk5yxV45dXhpUBH4QdcKaSu+VVByD4uIbyWLSWMsvbQ9x/evlVYWiomFAIXT46h0gD3WYHHiYCQryltP5Krt83WxK0XG7R3S2kjKtwJMLdcZTawwpdr+SuZuLXdI5q9mYJtaI3yMVPuY6lI/eFNFuEcMStPov8epR7lAok+k3R9S4nevcjC6OesNtkgNx2UuhA8Yt6y141CLHJS0qhnLeyyku3lI8oEf8CIsZPltPQz1TDfVsYVBOVJoaSqXEcWyVIozMPT0d/MA==</signature>
+  </product>
+</license>
